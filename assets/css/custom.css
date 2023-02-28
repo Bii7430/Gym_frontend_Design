@@ -112,12 +112,12 @@ body {
 }
 
 ::selection {
-  background: #13e30c;
+  background: #6ca12b;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #13e30c;
+  background: #6ca12b;
   color: #fff;
 }
 
@@ -155,7 +155,7 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #13e30c;
+  color: #6ca12b;
 }
 
 /* .section-heading img {
@@ -174,7 +174,7 @@ body {
   display: inline-block;
   font-size: 15px;
   padding: 12px 20px;
-  background-color: #13e30c;
+  background-color: #6ca12b;
   color: #fff;
   text-align: center;
   font-weight: 400;
@@ -184,7 +184,7 @@ body {
 
 .main-button a:hover {
   background-color: #fff;
-  color: #13e30c;
+  color: #6ca12b;
 }
  
 
@@ -218,11 +218,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #13e30c!important;
+  color: #6ca12b!important;
 }
 
 .background-header .nav li a.active {
-  color: #13e30c!important;
+  color: #6ca12b!important;
 }
 
 .header-area {
@@ -260,7 +260,7 @@ header
 .header-area .main-nav .logo em {
   font-style: normal;
   /* color: #ed563b; */
-  color: #13e30c;
+  color: #6ca12b;
   font-weight: 900;
 }
 
@@ -306,7 +306,7 @@ header
   display: inline-block;
   font-size: 13px;
   padding: 11px 17px;
-  background-color: #13e30c;
+  background-color: #6ca12b;
   color: #fff;
   text-align: center;
   font-weight: 400;
@@ -324,13 +324,13 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #13e30c!important;
+  color: #6ca12b!important;
   opacity: 1;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #13e30c!important;
+  color: #6ca12b!important;
   opacity: 1;
 }
 .gym-class ul li:hover {
@@ -459,7 +459,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #13e30c;
+  color: #6ca12b;
 }
 
 @media (max-width: 1200px) {
@@ -478,7 +478,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #13e30c!important;
+    color: #6ca12b!important;
     opacity: 1;
   }
   .header-area {
@@ -515,15 +515,15 @@ header
   }
   .header-area .main-nav .nav li:last-child {
     width: 100%;
-    background-color: #13e30c;
+    background-color: #6ca12b;
     color: #fff;
   }
   .header-area .main-nav .nav li:last-child a {
-    background-color: #13e30c!important;
+    background-color: #6ca12b!important;
   }
   .header-area .main-nav .nav li:last-child a:hover,
   .header-area .main-nav .nav li:last-child:hover a {
-    background-color: #13e30c!important;
+    background-color: #6ca12b!important;
     color: #fff!important;
   }
   .header-area.header-sticky .nav {
@@ -549,7 +549,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #13e30c!important;
+    color: #6ca12b!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -653,7 +653,7 @@ banner
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #13e30c;
+  color: #6ca12b;
   font-weight: 900;
 }
 
@@ -726,7 +726,7 @@ subscribe
 
 .cta-content h2 em {
   font-style: normal;
-  color: #13e30c;
+  color: #6ca12b;
 }
 
 .cta-content p {
@@ -787,10 +787,10 @@ Our Classes
   font-size: 19px;
   letter-spacing: 0.5px;
   font-weight: 600;
-  background-color: #13e30c;
+  background-color: #6ca12b;
 }
 #tabs .main-rounded-button a:hover {
-  background-color: #13e30c;
+  background-color: #6ca12b;
 }
 #tabs ul li a img {
   max-width: 100%;
@@ -803,7 +803,7 @@ Our Classes
   border-bottom: none;
 }
 #tabs ul .ui-tabs-active a {
-  color: #13e30c;
+  color: #6ca12b;
 }
 #tabs ul .ui-tabs-active span {
   color: #1e1e1e;
@@ -846,6 +846,7 @@ schedule
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+ 
 }
 
 #schedule table {
@@ -921,7 +922,7 @@ schedule
 }
 #schedule .filters ul li.active,
 #schedule .filters ul li:hover {
-  color: #13e30c;
+  color: #6ca12b;
 }
 #schedule .filters-content {
   margin-top: 50px;
@@ -959,7 +960,7 @@ trainers
 #trainers .trainer-item span {
   font-size: 13px;
   font-weight: 500;
-  color: #13e30c;
+  color: #6ca12b;
   display: inline-block;
   margin-top: 25px;
   margin-bottom: 10px;
@@ -992,7 +993,7 @@ trainers
 }
 
 #trainers .trainer-item ul.social-icons li a:hover {
-  color: #13e30c;
+  color: #6ca12b;
 }
 
 
@@ -1062,7 +1063,7 @@ contact
   display: inline-block;
   font-size: 13px;
   padding: 11px 17px;
-  background-color: #13e30c;
+  background-color: #6ca12b;
   color: #fff;
   text-align: center;
   font-weight: 400;
@@ -1074,7 +1075,7 @@ contact
 }
 
 .contact-form button:hover {
-  background-color: #13e30c;
+  background-color: #6ca12b;
 }
 
 
@@ -1097,11 +1098,11 @@ footer p {
 
 footer p a {
   cursor: pointer;
-  color: #13e30c;
+  color: #6ca12b;
 }
 
 footer p a:hover {
-  color: #13e30c;
+  color: #6ca12b;
 }
 
 
@@ -1299,7 +1300,7 @@ responsive
 	height:60px;
 	bottom:40px;
 	right:40px;
-	background-color:#13e30c;
+	background-color:#6ca12b;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
@@ -1356,7 +1357,7 @@ a.float:hover + div.label-container{
     padding: 40px 0 10px;
 }}
 .hero{
-  color: #13e30c;
+  color: #6ca12b;
 }
 .hero1{
   color: red;
@@ -1392,7 +1393,7 @@ a.float:hover + div.label-container{
   padding-bottom: 25px;
 }
 .pkg-btn{
-  background-color: #13e30c;
+  background-color: #6ca12b;
   color: #FFF;
 }
 .mmid{
@@ -1414,6 +1415,232 @@ a.float:hover + div.label-container{
   padding-top: 210px;
 }
 .addtocart{
-  background-color: #13e30c;
+  background-color: #6ca12b;
   color: #FFF;
 }
+
+.app-logo{
+  margin:0 35% 0 35%;
+ 
+}
+.card-logo:hover{
+  background-color: #6ca12b;
+  }
+
+.card-logo p{
+  color: #7a7a7a;
+}
+
+.herogym strong{
+  font-size: larger;
+}
+*******************************/
+/********** Class CSS **********/
+/*******************************/
+.class {
+    position: relative;
+    padding: 45px 0 15px 0;
+}
+
+.class #class-filter {
+    padding: 0;
+    margin: -15px 0 25px 0;
+    list-style: none;
+    font-size: 0;
+    text-align: center;
+}
+
+.class #class-filter li {
+    cursor: pointer;
+    display: inline-block;
+    margin: 5px;
+    padding: 6px 12px;
+    color: #6ca12b;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 0;
+    background: none;
+    border: 1px solid #6ca12b;
+    transition: .3s;
+}
+
+.class #class-filter li:hover,
+.class #class-filter li.filter-active {
+    background: #6ca12b;
+    color: #fff;
+}
+
+.class .class-item {
+    position: relative;
+    margin-bottom: 30px;
+    overflow: hidden;
+    transition: .3s;
+}
+
+.class .class-wrap {
+    position: relative;
+    width: 100%;
+}
+
+.class .class-img {
+    position: relative;
+}
+
+.class .class-img img {
+    position: relative;
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover;
+}
+
+.class .class-text {
+    position: relative;
+    padding: 30px 30px 25px 30px;
+    border-right: 1px solid rgba(0, 0, 0, .07);
+    border-bottom: 1px solid rgba(0, 0, 0, .07);
+    border-left: 1px solid rgba(0, 0, 0, .07);
+}
+
+.class .class-text h2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.class .class-teacher {
+    position: relative;
+    height: 40px;
+    margin-top: -50px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    border-radius: 40px;
+}
+
+.class .class-teacher img {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+}
+
+.class .class-teacher h3 {
+    width: calc(100% - 95px);
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 0 0 15px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.class .class-teacher a {
+    width: 40px;
+    height: 40px;
+    padding: 0 0 3px 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 100;
+    color: #6ca12b;
+    background: #fff;
+    border-radius: 40px;
+    transition: .3s;
+}
+
+.class .class-wrap:hover .class-teacher a {
+    color: #fff;
+    background: #6ca12b;
+}
+
+.class .class-meta {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.class .class-meta p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.class .class-meta p i {
+    margin-right: 5px;
+    color: #6ca12b;
+}
+
+.class .class-meta p:first-child {
+    margin-right: 10px;
+}
+
+/*******************************/
+/********* Pricing CSS *********/
+/*******************************/
+.discount {
+  position: relative;
+  width: 100%;
+  margin: 45px 0;
+  padding: 90px 0;
+  background: linear-gradient(rgba(247, 202, 201, .7), rgba(247, 202, 201, .7)), url(../img/discount-bg.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.discount .container {
+  max-width: 750px;
+  text-align: center;
+}
+
+.discount .section-header {
+  margin-bottom: 20px;
+}
+
+.discount .section-header p {
+  color: #343148;
+  background: transparent;
+}
+
+.discount .section-header p::after {
+  display: none;
+}
+
+.discount .section-header h2 span {
+  color: #F32B56;
+  font-size: 50px;
+}
+
+.discount .discount-text p {
+  color: #454545;
+}
+
+.discount .discount-text .btn {
+  margin-top: 10px;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #fff;
+  background:  #6ca12b;
+  ;
+  border-radius: 0;
+  transition: .3s;
+}
+
+.discount .discount-text .btn:hover {
+  color: #343148;
+  background: #ffffff;
+}
+#class-vdo{
+  
+    width: 100%;
+    height: auto;
+  
+  
+}
+
+
+
