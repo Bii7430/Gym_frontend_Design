@@ -1583,7 +1583,7 @@ a.float:hover + div.label-container{
   width: 100%;
   margin: 45px 0;
   padding: 90px 0;
-  background: linear-gradient(rgba(247, 202, 201, .7), rgba(247, 202, 201, .7)), url(../img/discount-bg.png);
+  background: linear-gradient(rgba(247, 202, 201, .7), rgba(247, 202, 201, .7)), url(../assets/images/discount-bg.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -1666,7 +1666,7 @@ a.float:hover + div.label-container{
   margin: 0 auto;
   }
   
-  .card {
+  .dashed {
   border: 1px dashed rgb(43, 220, 24);
   
   
@@ -1717,9 +1717,13 @@ a.float:hover + div.label-container{
 .badge-dark{
   color: #fff;
   background-color: #6ca12b;
-  margin-right: 30px;
+ 
+  
 }
 .addbadge{
   margin-right: 55px;
   color: #fff;
+}
+btn-right{
+ text-align: right !important;
 }
